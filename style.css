@@ -421,6 +421,9 @@ footer ul li:not(:last-child) {
   .advance_underline .container .page_header .page_link {
     height: 70%;
   }
+  .advance_underline .container .page_header .page_link .google_advance_logo {
+    width: 40px;
+  }
 }
 @media screen and (max-width: 1023px) {
   .adv_bottom {
