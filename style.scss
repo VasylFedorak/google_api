@@ -385,11 +385,11 @@ footer{
     }
 
     .search_input::placeholder{
-        font-size: 10px;
+        font-size: 8px;
     }
 
     #advance_search_link {
-        font-size: 12px;
+        font-size: 10px;
     }
 }
 
@@ -411,6 +411,10 @@ footer{
                 font-size: 14px;
             }
         }
+    }
+
+    #hidden_footer_list{
+        display: none;
     }
      
 

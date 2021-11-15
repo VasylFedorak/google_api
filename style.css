@@ -359,11 +359,11 @@ footer ul li:not(:last-child) {
   }
 
   .search_input::placeholder {
-    font-size: 10px;
+    font-size: 8px;
   }
 
   #advance_search_link {
-    font-size: 12px;
+    font-size: 10px;
   }
 }
 @media screen and (min-width: 481px) and (max-width: 768px) {
@@ -378,6 +378,10 @@ footer ul li:not(:last-child) {
   }
   footer #footer_line + .container ul {
     font-size: 14px;
+  }
+
+  #hidden_footer_list {
+    display: none;
   }
 
   .adv_bottom {
