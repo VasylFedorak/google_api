@@ -406,7 +406,11 @@ footer ul li:not(:last-child) {
   }
 
   .google_advance_logo {
-    width: 60px;
+    width: 50px;
+  }
+
+  #advance_search_link {
+    font-size: 12px;
   }
 
   .image_link {
